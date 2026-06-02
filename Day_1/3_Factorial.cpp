@@ -1,3 +1,5 @@
+//Program to Print multiplication table of a given number
+
 #include <iostream>
 using namespace std;
 
