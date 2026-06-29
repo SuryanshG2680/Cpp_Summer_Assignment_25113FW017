@@ -58,6 +58,7 @@ int main(){
     cout << "Enter Library Description : \n";
 
     vector <bookinfo> books;
+    int c=0;
     char add;
 
     do{
